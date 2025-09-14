@@ -1,0 +1,28 @@
+p{
+    color: blue;
+}
+
+.paragraf1{
+    color: aqua;
+}
+
+#text{
+     color: brown;
+}
+
+[title]{
+    color: coral;
+}
+
+div p{
+    color: crimson;
+}
+
+div > div > p{
+    color: darkorange;
+}
+
+div.combo p{
+    color: black;
+    background-color: hotpink;
+}
